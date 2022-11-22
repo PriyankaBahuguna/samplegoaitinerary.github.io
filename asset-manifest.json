@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/samplegoaitinerary/static/css/main.d119357a.css",
+    "main.js": "/samplegoaitinerary/static/js/main.f4e8bd87.js",
+    "static/js/787.986e8940.chunk.js": "/samplegoaitinerary/static/js/787.986e8940.chunk.js",
+    "static/media/local.jpg": "/samplegoaitinerary/static/media/local.7fdac1591b3279fbab2a.jpg",
+    "static/media/clubbing.jpg": "/samplegoaitinerary/static/media/clubbing.b2381855d2406bc52b8f.jpg",
+    "static/media/goa.jpg": "/samplegoaitinerary/static/media/goa.27e032fdbf753b12bbf1.jpg",
+    "static/media/water.jpg": "/samplegoaitinerary/static/media/water.6976cf6a073104ec74c2.jpg",
+    "static/media/goa2.jpg": "/samplegoaitinerary/static/media/goa2.aa0af223df71021e02c9.jpg",
+    "static/media/baga.jpg": "/samplegoaitinerary/static/media/baga.987acfbd49c23bcff2d6.jpg",
+    "static/media/culture.jpg": "/samplegoaitinerary/static/media/culture.88af2dd4e1bf0e449fb3.jpg",
+    "static/media/logo.png": "/samplegoaitinerary/static/media/logo.d0257ca293c63383265f.png",
+    "static/media/cruise.jpg": "/samplegoaitinerary/static/media/cruise.a258e1b0ce615f52cebd.jpg",
+    "static/media/logo.svg": "/samplegoaitinerary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/samplegoaitinerary/index.html",
+    "main.d119357a.css.map": "/samplegoaitinerary/static/css/main.d119357a.css.map",
+    "main.f4e8bd87.js.map": "/samplegoaitinerary/static/js/main.f4e8bd87.js.map",
+    "787.986e8940.chunk.js.map": "/samplegoaitinerary/static/js/787.986e8940.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d119357a.css",
+    "static/js/main.f4e8bd87.js"
+  ]
+}
